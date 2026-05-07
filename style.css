@@ -39,7 +39,7 @@ nav a:hover {
 
 nav a.active {
   box-shadow: 0 0 25px rgba(182, 48, 135, 0.9);
-  transform: scale(1.25);
+  transform: scale(1);
 }
 
 main {
@@ -52,7 +52,7 @@ main {
   text-align: center;
 }
 
-/* THEMES */
+
 .pink {
   background-color: #f6d5e1;
   color: #2f6d2f;
